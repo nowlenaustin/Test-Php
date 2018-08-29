@@ -6,3 +6,6 @@
  * Time: 3:47 PM
  */
 echo "Hello, World!";
+for ($i = 0; $i < 10; $i++){
+    echo $i.PHP_EOL;
+}
